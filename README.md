@@ -1,6 +1,6 @@
 # ⚙️ **Python Data Engineering**  
 
-Laboratorios prácticos sobre temas clave de **ingeniería de datos con Python**. ⚙️  
+Laboratorios prácticos sobre temas clave de **ingeniería de datos con Python**.  
 
 ## 📝 **Descripción**  
 
@@ -16,13 +16,13 @@ python-data-engineering/
 │  
 │── Labs/                                # Laboratorios temáticos por sesión  
 │── ├── Sesion1_HDFS_Instalacion.ipynb        # Introducción a HDFS y su instalación  
-│── ├── Sesion2_PySpark_Basico.ipynb          # Primeros pasos con PySpark  
+│── ├── Sesion2_PySpark.ipynb                 # Primeros pasos con PySpark  
 │── ├── Sesion3_PySpark_PCA.ipynb             # PCA aplicado en Spark  
 │── ├── Sesion4_Spark_Reduccion_CNN.ipynb     # Reducción de dimensionalidad con CNNs y Spark  
-│── ├── Sesion5_SparkStreaming.ipynb          # Procesamiento en tiempo real con Spark Streaming  
-│── ├── Sesion6_SparkGraphFrames.ipynb        # Análisis de grafos con Spark y GraphFrames  
+│── ├── Sesion5_Spark_Streaming.ipynb         # Procesamiento en tiempo real con Spark Streaming  
+│── ├── Sesion6_Spark_GraphFrames.ipynb       # Análisis de grafos con Spark y GraphFrames  
 │── ├── Sesion7_MapReduce.ipynb               # Ejercicios de MapReduce en Python  
-│── ├── Sesion8_KafkaStreaming.ipynb          # Integración de Kafka para ingestión de datos  
+│── ├── Sesion8_Kafka.ipynb                   # Integración de Kafka para ingestión de datos  
 │── ├── Sesion9_Polars.ipynb                  # Exploración con Polars (DataFrames ultrarrápidos)  
 │── ├── Sesion10_Dask.ipynb                   # Procesamiento distribuido con Dask  
 │  
