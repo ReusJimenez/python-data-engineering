@@ -11,27 +11,27 @@ El contenido se desarrolla progresivamente, abordando desde conceptos básicos h
 > 🔒 Este repositorio está en desarrollo activo. El contenido seguirá creciendo conforme avance el aprendizaje.  
 
 ## 📁 **Estructura del Repositorio**  
-
+```
 python-data-engineering/  
 │  
 │── Labs/                                # Laboratorios temáticos por sesión  
-│── ├── Lab01_HDFS_Instalacion.ipynb          # Introducción a HDFS y su instalación  
-│── ├── Lab02_MapReduce.ipynb                 # Ejercicios de MapReduce en Python  
-│── ├── Lab03_PySpark.ipynb                   # Primeros pasos con PySpark  
-│── ├── Lab04_PySpark_PCA.ipynb               # PCA aplicado en Spark  
-│── ├── Lab05_Spark_Reduccion_CNN.ipynb       # Reducción de dimensionalidad con CNNs y Spark  
-│── ├── Lab06_Spark_Streaming.ipynb           # Procesamiento en tiempo real con Spark Streaming  
-│── ├── Lab07_Spark_GraphFrames.ipynb         # Análisis de grafos con Spark y GraphFrames  
-│── ├── Lab08_Kafka.ipynb                     # Integración de Kafka para ingestión de datos  
-│── ├── Lab09_Dask.ipynb                      # Procesamiento distribuido con Dask  
-│── ├── Lab10_Polars.ipynb                    # Exploración con Polars  
+│── ├── lab01-hdfs-instalacion.ipynb          # Introducción a HDFS y su instalación  
+│── ├── lab02-mapreduce.ipynb                 # Ejercicios de MapReduce en Python  
+│── ├── lab03-pyspark.ipynb                   # Primeros pasos con PySpark  
+│── ├── lab04-pyspark-pca.ipynb               # PCA aplicado en Spark  
+│── ├── lab05-spark-reduccion-cnn.ipynb       # Reducción de dimensionalidad con CNNs y Spark  
+│── ├── lab06-spark-streaming.ipynb           # Procesamiento en tiempo real con Spark Streaming  
+│── ├── lab07-spark-graphframes.ipynb         # Análisis de grafos con Spark y GraphFrames  
+│── ├── lab08-kafka.ipynb                     # Integración de Kafka para ingestión de datos  
+│── ├── lab09-dask.ipynb                      # Procesamiento distribuido con Dask  
+│── ├── lab10-polars.ipynb                    # Exploración con Polars  
 │  
 │── Data/                               # Datasets utilizados  
 │  
 │── Docs/                               # Documentación técnica  
 │  
 │── README.md                           # Documentación del repositorio  
-
+```
 ## 🛠 **Tecnologías Utilizadas**  
 
 - 🐍 **Python** – base principal para scripting y desarrollo  
