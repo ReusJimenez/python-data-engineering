@@ -15,24 +15,20 @@ El contenido se desarrolla progresivamente, abordando desde conceptos básicos h
 python-data-engineering/  
 │  
 │── Labs/                                # Laboratorios temáticos por sesión  
-│── ├── Sesion1_HDFS_Instalacion.ipynb        # Introducción a HDFS y su instalación  
-│── ├── Sesion2_PySpark.ipynb                 # Primeros pasos con PySpark  
-│── ├── Sesion3_PySpark_PCA.ipynb             # PCA aplicado en Spark  
-│── ├── Sesion4_Spark_Reduccion_CNN.ipynb     # Reducción de dimensionalidad con CNNs y Spark  
-│── ├── Sesion5_Spark_Streaming.ipynb         # Procesamiento en tiempo real con Spark Streaming  
-│── ├── Sesion6_Spark_GraphFrames.ipynb       # Análisis de grafos con Spark y GraphFrames  
-│── ├── Sesion7_MapReduce.ipynb               # Ejercicios de MapReduce en Python  
-│── ├── Sesion8_Kafka.ipynb                   # Integración de Kafka para ingestión de datos  
-│── ├── Sesion9_Polars.ipynb                  # Exploración con Polars (DataFrames ultrarrápidos)  
-│── ├── Sesion10_Dask.ipynb                   # Procesamiento distribuido con Dask  
+│── ├── Lab01_HDFS_Instalacion.ipynb          # Introducción a HDFS y su instalación  
+│── ├── Lab02_MapReduce.ipynb                 # Ejercicios de MapReduce en Python  
+│── ├── Lab03_PySpark.ipynb                   # Primeros pasos con PySpark  
+│── ├── Lab04_PySpark_PCA.ipynb               # PCA aplicado en Spark  
+│── ├── Lab05_Spark_Reduccion_CNN.ipynb       # Reducción de dimensionalidad con CNNs y Spark  
+│── ├── Lab06_Spark_Streaming.ipynb           # Procesamiento en tiempo real con Spark Streaming  
+│── ├── Lab07_Spark_GraphFrames.ipynb         # Análisis de grafos con Spark y GraphFrames  
+│── ├── Lab08_Kafka.ipynb                     # Integración de Kafka para ingestión de datos  
+│── ├── Lab09_Dask.ipynb                      # Procesamiento distribuido con Dask  
+│── ├── Lab10_Polars.ipynb                    # Exploración con Polars (DataFrames ultrarrápidos)
 │  
-│── Data/                               # Datasets utilizados (si no son muy pesados)  
+│── Data/                               # Datasets utilizados  
 │  
-│── Scripts/                            # Código Python reutilizable (ETL, funciones, helpers)  
-│  
-│── Images/                             # Screenshots, diagramas o visualizaciones exportadas  
-│  
-│── Docs/                               # Documentación técnica, referencias, cheatsheets, etc.  
+│── Docs/                               # Documentación técnica  
 │  
 │── README.md                           # Documentación del repositorio  
 
