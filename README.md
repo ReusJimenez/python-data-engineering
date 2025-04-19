@@ -6,9 +6,9 @@ Laboratorios prácticos sobre temas clave de **ingeniería de datos con Python**
 
 Este repositorio contiene una serie de notebooks enfocados en explorar tecnologías, herramientas y conceptos fundamentales de la **ingeniería de datos**. Desde el almacenamiento distribuido con **HDFS**, hasta el procesamiento en paralelo con **Spark**, transmisión de datos con **Kafka**, y herramientas modernas como **Dask** y **Polars**.  
 
-El contenido se desarrolla progresivamente, abordando desde conceptos básicos hasta temas más avanzados como **streaming**, **PCA con PySpark**, **GraphFrames**, y más. Ideal para construir una base técnica sólida en el camino hacia el rol de **Data Engineer**.
+El contenido se desarrolla progresivamente, abordando desde conceptos básicos hasta temas más avanzados como **streaming**, **PCA con PySpark**, **GraphFrames**, y más. Ideal para construir una base técnica sólida en el camino hacia el rol de **Data Engineer**.  
 
-> 🔒 Este repositorio está en desarrollo activo y se mantendrá privado mientras se consolida el aprendizaje.
+> 🔒 Este repositorio está en desarrollo activo. El contenido seguirá creciendo conforme avance el aprendizaje.  
 
 ## 📁 **Estructura del Repositorio**  
 
@@ -24,7 +24,7 @@ python-data-engineering/
 │── ├── Lab07_Spark_GraphFrames.ipynb         # Análisis de grafos con Spark y GraphFrames  
 │── ├── Lab08_Kafka.ipynb                     # Integración de Kafka para ingestión de datos  
 │── ├── Lab09_Dask.ipynb                      # Procesamiento distribuido con Dask  
-│── ├── Lab10_Polars.ipynb                    # Exploración con Polars (DataFrames ultrarrápidos)
+│── ├── Lab10_Polars.ipynb                    # Exploración con Polars  
 │  
 │── Data/                               # Datasets utilizados  
 │  
