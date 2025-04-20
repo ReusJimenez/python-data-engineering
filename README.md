@@ -1,6 +1,6 @@
 # ⚙️ **Python Data Engineering**  
 
-Laboratorios prácticos sobre temas clave de **ingeniería de datos con Python**.  
+Laboratorios prácticos sobre **ingeniería de datos con Python**.  
 
 ## 📝 **Descripción**  
 
@@ -11,6 +11,7 @@ El contenido se desarrolla progresivamente, abordando desde conceptos básicos h
 > 🔒 Este repositorio está en desarrollo activo. El contenido seguirá creciendo conforme avance el aprendizaje.  
 
 ## 📁 **Estructura del Repositorio**  
+
 ```
 python-data-engineering/  
 │  
@@ -26,12 +27,9 @@ python-data-engineering/
 │── ├── lab09-dask.ipynb                      # Procesamiento distribuido con Dask  
 │── ├── lab10-polars.ipynb                    # Exploración con Polars  
 │  
-│── Data/                               # Datasets utilizados  
-│  
-│── Docs/                               # Documentación técnica  
-│  
 │── README.md                           # Documentación del repositorio  
 ```
+
 ## 🛠 **Tecnologías Utilizadas**  
 
 - 🐍 **Python** – base principal para scripting y desarrollo  
