@@ -8,31 +8,31 @@ Este repositorio contiene una serie de notebooks enfocados en explorar tecnolog�
 
 El contenido se desarrolla progresivamente, abordando desde conceptos básicos hasta temas más avanzados como **streaming**, **PCA con PySpark**, **GraphFrames**, y más. Ideal para construir una base técnica sólida en el camino hacia el rol de **Data Engineer**.  
 
-> 🔒 Este repositorio está en desarrollo activo. El contenido seguirá creciendo conforme avance el aprendizaje.  
+> 🚧 En construcción. El contenido seguirá creciendo conforme avance el aprendizaje.
 
 ## 📁 **Estructura del Repositorio**  
 
 ```
 python-data-engineering/  
-│  
-│── Labs/                                # Laboratorios temáticos por sesión  
-│── ├── lab01-hdfs-instalacion.ipynb          # Introducción a HDFS y su instalación  
-│── ├── lab02-mapreduce.ipynb                 # Ejercicios de MapReduce en Python  
-│── ├── lab03-pyspark.ipynb                   # Primeros pasos con PySpark  
-│── ├── lab04-pyspark-pca.ipynb               # PCA aplicado en Spark  
-│── ├── lab05-spark-reduccion-cnn.ipynb       # Reducción de dimensionalidad con CNNs y Spark  
-│── ├── lab06-spark-streaming.ipynb           # Procesamiento en tiempo real con Spark Streaming  
-│── ├── lab07-spark-graphframes.ipynb         # Análisis de grafos con Spark y GraphFrames  
-│── ├── lab08-kafka.ipynb                     # Integración de Kafka para ingestión de datos  
-│── ├── lab09-dask.ipynb                      # Procesamiento distribuido con Dask  
-│── ├── lab10-polars.ipynb                    # Exploración con Polars  
-│  
-│── README.md                           # Documentación del repositorio  
+│
+├── Labs/                                # Laboratorios temáticos por sesión  
+│   ├── lab01-hdfs-instalacion.ipynb          # Introducción a HDFS y su instalación  
+│   ├── lab02-mapreduce.ipynb                 # Ejercicios de MapReduce en Python  
+│   ├── lab03-pyspark.ipynb                   # Primeros pasos con PySpark  
+│   ├── lab04-pyspark-pca.ipynb               # PCA aplicado en Spark  
+│   ├── lab05-spark-reduccion-cnn.ipynb       # Reducción de dimensionalidad con CNNs y Spark  
+│   ├── lab06-spark-streaming.ipynb           # Procesamiento en tiempo real con Spark Streaming  
+│   ├── lab07-spark-graphframes.ipynb         # Análisis de grafos con Spark y GraphFrames  
+│   ├── lab08-kafka.ipynb                     # Integración de Kafka para ingestión de datos  
+│   ├── lab09-dask.ipynb                      # Procesamiento distribuido con Dask  
+│   └── lab10-polars.ipynb                    # Exploración con Polars  
+│
+└── README.md                           # Documentación del repositorio  
 ```
 
 ## 🛠 **Tecnologías Utilizadas**  
 
-- 🐍 **Python** – base principal para scripting y desarrollo  
+- 🐍 **Python** – Base principal para scripting y desarrollo  
 - 💾 **HDFS** – Sistema distribuido de archivos  
 - ⚡ **Apache Spark** – Procesamiento distribuido de datos (PySpark, MLlib, Streaming)  
 - 📊 **Kafka** – Plataforma de streaming para ingestión de datos en tiempo real  
@@ -59,3 +59,8 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactar a:
 - **Nombre:** Roberto Edmundo Eustaquio Jiménez  
 - **Email:** [reusjimenez2002@gmail.com](mailto:reusjimenez2002@gmail.com)  
 - **GitHub:** [https://github.com/ReusJimenez](https://github.com/ReusJimenez)  
+- **LinkedIn:** [https://linkedin.com/in/roberto-eustaquio/](https://linkedin.com/in/roberto-eustaquio/)  
+
+## 📜 **Licencia**  
+
+Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más información.
